@@ -10,7 +10,7 @@
 //     LABEL             : 'WORKSTATION'
 // )
 
-nodejs-immutable(
+docker(
     COMPONENT         : 'cart',
     LABEL             : 'WORKSTATION'
 )
